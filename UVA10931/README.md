@@ -24,7 +24,7 @@ The parity of 10101 is 3 (mod 2).
 
 ## Code
 
-```
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
